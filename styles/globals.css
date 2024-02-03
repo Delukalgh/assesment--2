@@ -1,0 +1,8 @@
+:root {
+    background-image: url('/../Background-GIF.gif');
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: static;
+    background-attachment: fixed;
+
+}

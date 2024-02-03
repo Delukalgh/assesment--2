@@ -1,0 +1,21 @@
+/* .menuBox {
+    display: flex;
+    border-right: 2px solid var(--purple);
+    flex-direction: column;
+    padding-right: 65px;
+    margin-top: -110px;
+    margin-bottom: -100px;
+    justify-content: left;
+}
+
+.name {
+    font-size: 25px;
+    font-weight: bold;
+    color: var(--purple);
+}
+
+.occupation {
+    font-weight: lighter;
+    font-style: italic;
+    margin-top: -10px;
+} */
